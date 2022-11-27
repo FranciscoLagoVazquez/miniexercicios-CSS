@@ -1,0 +1,16 @@
+
+<style>
+/* esto es un comentario */
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: red;
+  margin-left: 40px;
+} 
+p {
+  color: blue;
+  margin-left: 40px;
+} 
+</style>
